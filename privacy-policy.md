@@ -26,4 +26,4 @@ Il tasto Condividi crea un'immagine del perché che hai scelto, insieme al suo t
 
 ## Contatti
 
-Per qualsiasi domanda su questa informativa puoi scriverci a: tbd@gmail.com
+Per qualsiasi domanda su questa informativa puoi scriverci a: wonderwhyapp@gmail.com

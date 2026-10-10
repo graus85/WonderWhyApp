@@ -22,4 +22,4 @@ Sì: Wonder Why non ha un account né una sincronizzazione, quindi i tuoi progre
 
 ## Non hai trovato risposta?
 
-Scrivici a: tbd@gmail.com
+Scrivici a: wonderwhyapp@gmail.com
