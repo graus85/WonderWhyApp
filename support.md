@@ -9,7 +9,7 @@ Ogni giorno l'app mostra una sola curiosità, uguale per tutti: non cambia se ri
 Conta quanti giorni di fila hai aperto e letto il "perché". Se salti un giorno, la serie riparte da zero al giorno successivo.
 
 **Come si sbloccano i badge?**
-Leggendo i "perché" ogni giorno, salvando contenuti nella Raccolta, mantenendo una serie di giorni consecutivi o scoprendo le date speciali durante l'anno.
+Leggendo i "perché", tenendo una serie di giorni di fila, esplorando categorie diverse e aprendo le date speciali durante l'anno. Alcuni badge sono a sorpresa e compaiono solo quando li sblocchi. Li trovi tutti in Progressi, nella Vetrina.
 
 **Perché non ricevo la notifica giornaliera?**
 Controlla di aver dato il permesso alle notifiche a Wonder Why nelle Impostazioni di iOS, e che nell'app le notifiche siano attive con un orario impostato.

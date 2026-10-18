@@ -1,16 +1,20 @@
 # Privacy policy — Wonder Why
 
-_Last updated: September 20, 2026_
+_Last updated: October 11, 2026_
 
 Wonder Why is designed to be simple and to respect your privacy.
 
 ## What we collect
 
-Nothing. There is no account to create and no server behind the app, and no information about you is sent to us or to anyone else.
+Nothing. There is no account to create, and no information about you is sent to us or to anyone else.
 
 ## Where your data stays
 
 Your progress — days read, badges, saved whys, and your language, appearance and notification preferences — stays only on this iPhone. There is no account or sync, so if you delete the app, or change device without an iPhone backup, it is lost. You can also erase your progress at any time with “Reset progress” in Settings.
+
+## Content updates
+
+To bring you new whys without an app update, Wonder Why downloads the content catalog from the internet from time to time — the same catalog for everyone. The request carries no account, no identifier and nothing about what you read or save. As with any internet connection, the service hosting the content sees the IP address the request comes from; we don't use it to identify you. Without a connection, the app keeps working with the content it already has.
 
 ## Notifications
 

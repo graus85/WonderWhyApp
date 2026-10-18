@@ -1,16 +1,20 @@
 # Política de privacidad — Wonder Why
 
-_Última actualización: 20 de septiembre de 2026_
+_Última actualización: 11 de octubre de 2026_
 
 Wonder Why está pensada para ser sencilla y respetar tu privacidad.
 
 ## Qué recopilamos
 
-Nada. No hay ninguna cuenta que crear ni un servidor detrás de la app, y no se envía ninguna información sobre ti ni a nosotros ni a terceros.
+Nada. No hay ninguna cuenta que crear, y no se envía ninguna información sobre ti ni a nosotros ni a terceros.
 
 ## Dónde se quedan tus datos
 
 Tu progreso —días leídos, insignias, «por qués» guardados y tus preferencias de idioma, apariencia y notificaciones— se queda solo en este iPhone. No hay cuenta ni sincronización, así que si eliminas la app, o cambias de dispositivo sin una copia de seguridad del iPhone, lo pierdes. También puedes borrarlo en cualquier momento con «Restablecer el progreso» en Ajustes.
+
+## Actualización de contenidos
+
+Para traerte nuevos «por qués» sin tener que actualizar la app, Wonder Why descarga de vez en cuando de internet el catálogo de contenidos, el mismo para todos. La solicitud no incluye ninguna cuenta, ningún identificador ni nada sobre lo que lees o guardas. Como en cualquier conexión a internet, el servicio que aloja los contenidos ve la dirección IP desde la que llega la solicitud: no la usamos para identificarte. Sin conexión, la app sigue funcionando con los contenidos que ya tiene.
 
 ## Notificaciones
 

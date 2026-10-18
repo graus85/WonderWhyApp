@@ -9,7 +9,7 @@ Every day the app shows a single curiosity, the same for everyone: it does not c
 It counts how many days in a row you have opened and read the "why". If you skip a day, the streak starts again from zero the following day.
 
 **How do I unlock badges?**
-By reading the "whys" every day, saving content to the Library, keeping a streak going, or discovering the special dates throughout the year.
+By reading the "whys", keeping a streak going, exploring different categories and opening the special dates throughout the year. Some badges are a surprise and only show up once you unlock them. You'll find them all in Progress, in the Cabinet.
 
 **Why am I not receiving the daily notification?**
 Check that you have allowed notifications for Wonder Why in iOS Settings, and that notifications are turned on in the app with a time set.

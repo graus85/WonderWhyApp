@@ -9,7 +9,7 @@ Chaque jour, l'app affiche une seule curiosité, la même pour tout le monde : e
 Elle compte combien de jours d'affilée vous avez ouvert et lu le « pourquoi ». Si vous sautez un jour, la série repart de zéro le lendemain.
 
 **Comment débloquer les badges ?**
-En lisant les « pourquoi » chaque jour, en enregistrant des contenus dans la Collection, en maintenant une série, ou en découvrant les dates spéciales au fil de l'année.
+En lisant les « pourquoi », en maintenant une série, en explorant différentes catégories et en ouvrant les dates spéciales au fil de l'année. Certains badges sont une surprise et n'apparaissent qu'une fois débloqués. Vous les retrouvez tous dans Progrès, dans la Vitrine.
 
 **Pourquoi je ne reçois pas la notification quotidienne ?**
 Vérifiez que vous avez autorisé les notifications pour Wonder Why dans les Réglages d'iOS, et que dans l'app les notifications sont activées avec une heure définie.

@@ -9,7 +9,7 @@ Cada día la app muestra una sola curiosidad, igual para todos: no cambia si vue
 Cuenta cuántos días seguidos has abierto y leído el "porqué". Si te saltas un día, la racha vuelve a empezar desde cero al día siguiente.
 
 **¿Cómo se desbloquean las insignias?**
-Leyendo los "porqués" cada día, guardando contenidos en la Colección, manteniendo una racha o descubriendo las fechas especiales a lo largo del año.
+Leyendo los "porqués", manteniendo una racha, explorando categorías distintas y abriendo las fechas especiales a lo largo del año. Algunas insignias son una sorpresa y solo aparecen cuando las desbloqueas. Las encuentras todas en Progreso, en la Vitrina.
 
 **¿Por qué no recibo la notificación diaria?**
 Comprueba que has dado permiso de notificaciones a Wonder Why en los Ajustes de iOS, y que en la app las notificaciones están activas con una hora configurada.
