@@ -24,7 +24,7 @@ Ve a Ajustes > Idioma y elige el idioma que prefieras entre los disponibles.
 Reúne los "porqués" que has leído, día a día, y te permite volver a abrir la tarjeta de cada día. El marcador de arriba muestra solo los que has guardado; también puedes buscar por palabra clave o filtrar por categoría.
 
 **¿Wonder Why recopila mis datos?**
-No. Wonder Why no tiene cuenta y no envía nada sobre ti: tu progreso (días leídos, insignias, contenidos guardados) queda solo en tu iPhone. La app se conecta a internet únicamente para descargar nuevos porqués.
+Nada que te identifique. Wonder Why no tiene cuenta, y tu progreso (días leídos, insignias, contenidos guardados) queda solo en tu iPhone. Si estás de acuerdo, la app también envía estadísticas de uso anónimas, que puedes desactivar cuando quieras en Ajustes.
 
 **¿Pierdo mis datos si cambio de teléfono?**
 Depende de cómo pases al nuevo teléfono. Wonder Why no tiene cuenta ni sincronización, así que tu progreso se queda en el teléfono donde lo has hecho. Si transfieres una copia de seguridad completa del teléfono antiguo (desde iCloud o desde el ordenador), los datos de la app normalmente se conservan; si no, empiezas de cero.

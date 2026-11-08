@@ -24,7 +24,7 @@ Go to Settings > Language and choose your preferred language among the ones avai
 It gathers the "whys" you've read, day by day, and lets you reopen each day's card. The bookmark at the top shows only the ones you've saved; you can also search by keyword or filter by category.
 
 **Does Wonder Why collect my data?**
-No. Wonder Why has no account and doesn't send anything about you: your progress (read days, badges, saved items) stays only on your iPhone. The app connects to the internet only to download new whys.
+Nothing that identifies you. Wonder Why has no account, and your progress (read days, badges, saved items) stays only on your iPhone. If you agree, the app also sends anonymous usage statistics, which you can turn off anytime in Settings.
 
 **Will I lose my data if I change phone?**
 It depends on how you move to the new phone. Wonder Why has no account and no sync, so your progress stays on the phone where you made it. If you transfer a full backup of your old phone (from iCloud or a computer), the app's data is normally kept; otherwise you start from scratch.

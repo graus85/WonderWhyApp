@@ -1,12 +1,16 @@
 # Politique de confidentialité — Wonder Why
 
-_Dernière mise à jour : 11 octobre 2026_
+_Dernière mise à jour : 8 novembre 2026_
 
 Wonder Why est conçue pour être simple et respectueuse de votre vie privée.
 
 ## Ce que nous collectons
 
-Rien. Il n'y a aucun compte à créer, et aucune information vous concernant n'est envoyée, ni à nous ni à des tiers.
+Rien qui vous identifie. Il n'y a aucun compte à créer. Seulement si vous êtes d'accord, l'app envoie des statistiques d'utilisation anonymes : voir « Statistiques anonymes » ci-dessous.
+
+## Statistiques anonymes
+
+Si vous êtes d'accord — l'app le demande une fois, et vous pouvez changer d'avis à tout moment dans Réglages —, Wonder Why envoie des statistiques d'utilisation anonymes à PostHog, un service de statistiques dont les serveurs sont dans l'Union européenne. Elles indiquent quels pourquoi sont lus, enregistrés et partagés, les réponses au vrai ou faux, les badges, l'usage de la Collection, les réglages de langue et de notifications, ainsi que des données techniques comme la version de l'app, la version d'iOS et le modèle de l'appareil. Elles sont liées à un code aléatoire créé pour cette installation, pas à vous : ni nom, ni e-mail, ni compte, ni position, et l'adresse IP est écartée. Sans votre consentement, rien n'est envoyé ; si vous le retirez, plus rien n'est envoyé et l'app oublie le code.
 
 ## Où restent vos données
 
@@ -22,7 +26,7 @@ Si vous activez la notification quotidienne, l'app demande l'autorisation à iOS
 
 ## Aucun suivi
 
-Wonder Why n'utilise aucun outil d'analyse, de publicité ou de suivi tiers, et ne construit jamais de profil vous concernant.
+Wonder Why n'a ni publicité ni suivi : elle ne relie jamais ce que vous faites dans l'app à des données d'autres apps ou sites web, et ne construit jamais de profil vous concernant.
 
 ## Partage
 

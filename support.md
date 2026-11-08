@@ -24,7 +24,7 @@ Vai in Impostazioni > Lingua e scegli la lingua che preferisci tra quelle dispon
 Raccoglie i "perché" che hai letto, giorno per giorno, e da lì puoi riaprire la card di ogni giorno. Il segnalibro in alto mostra solo quelli che hai salvato; puoi anche cercare per parola chiave o filtrare per categoria.
 
 **Wonder Why raccoglie i miei dati?**
-No. Wonder Why non ha account e non invia nulla su di te: i tuoi progressi (giorni letti, badge, contenuti salvati) restano solo sul tuo iPhone. L'app si collega a internet soltanto per scaricare i nuovi perché.
+Niente che ti identifichi. Wonder Why non ha account, e i tuoi progressi (giorni letti, badge, contenuti salvati) restano solo sul tuo iPhone. Se sei d'accordo, l'app invia anche statistiche d'uso anonime, che puoi disattivare quando vuoi nelle Impostazioni.
 
 **Perdo i miei dati se cambio telefono?**
 Dipende da come passi al nuovo telefono. Wonder Why non ha un account né una sincronizzazione, quindi i tuoi progressi restano sul telefono su cui li hai fatti. Se trasferisci un backup completo del vecchio telefono (da iCloud o dal computer), i dati dell'app di norma vengono mantenuti; altrimenti si riparte da zero.
