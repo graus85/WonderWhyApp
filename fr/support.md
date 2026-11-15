@@ -6,7 +6,10 @@
 Chaque jour, l'application affiche une seule anecdote. Elle est la même pour tout le monde : elle ne change pas si vous rouvrez l'application plusieurs fois le même jour.
 
 **Qu'est-ce que la série de jours consécutifs ?**
-Elle compte le nombre de jours consécutifs où vous avez ouvert et lu le « pourquoi ». Si vous manquez un jour, la série repart de zéro le lendemain.
+Elle compte le nombre de jours consécutifs où vous avez ouvert et lu le « pourquoi ». Si vous manquez un jour sans jour de repos disponible, la série repart de zéro.
+
+**Que sont les jours de repos ?**
+Ils protègent votre série quand vous manquez un jour. Vous en gagnez un tous les 7 jours lus et pouvez en garder 2 au maximum. Ils s'utilisent tout seuls : la série continue, mais le jour de repos ne l'allonge pas. Si vous manquez plus de jours d'affilée que vous n'en avez, la série repart de zéro. Vous les retrouvez dans Progrès, sous la série.
 
 **Comment débloquer les badges ?**
 En lisant les « pourquoi », en maintenant une série, en explorant différentes catégories et en ouvrant les dates spéciales au fil de l'année. Certains badges sont une surprise et n'apparaissent qu'une fois débloqués. Vous les retrouvez tous dans Progrès, dans la Vitrine.
@@ -22,6 +25,9 @@ Allez dans Réglages > Langue et choisissez la langue de votre choix parmi celle
 
 **À quoi sert la Collection ?**
 Elle rassemble les « pourquoi » que vous avez lus, jour après jour, et vous permet de rouvrir la carte de chaque jour. Le signet en haut n'affiche que ceux que vous avez enregistrés ; vous pouvez aussi rechercher par mot-clé ou filtrer par catégorie.
+
+**Puis-je lire un jour que j'ai manqué ?**
+Oui, s'il fait partie des 7 derniers jours. Ouvrez le calendrier dans la Collection : les jours que vous pouvez encore lire ont un contour en pointillés. Un jour rattrapé compte pour les lectures, les quiz et les badges, mais pas pour la série.
 
 **Wonder Why collecte-t-il mes données ?**
 Rien qui vous identifie. Wonder Why n'a pas de compte, et votre progression (jours lus, badges, contenus enregistrés) reste uniquement sur votre iPhone. Si vous êtes d'accord, l'app envoie aussi des statistiques d'utilisation anonymes, que vous pouvez désactiver à tout moment dans Réglages.

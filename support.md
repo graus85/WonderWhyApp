@@ -6,7 +6,10 @@
 Ogni giorno l'app mostra una sola curiosità. È la stessa per tutti: non cambia se riapri l'app più volte nello stesso giorno.
 
 **Cos'è la serie di giorni consecutivi (streak)?**
-Conta quanti giorni di fila hai aperto e letto il "perché". Se salti un giorno, la serie riparte da zero al giorno successivo.
+Conta quanti giorni di fila hai aperto e letto il "perché". Se salti un giorno e non hai giorni di riposo, la serie riparte da zero.
+
+**Cosa sono i giorni di riposo?**
+Proteggono la serie quando salti un giorno. Ne guadagni uno ogni 7 giorni letti e puoi tenerne al massimo 2. Si usano da soli: la serie resta, ma il giorno di riposo non la allunga. Se salti di fila più giorni di quelli che hai, la serie riparte da zero. Li trovi in Progressi, sotto la serie.
 
 **Come si sbloccano i badge?**
 Leggendo i "perché", tenendo una serie di giorni di fila, esplorando categorie diverse e aprendo le date speciali durante l'anno. Alcuni badge sono a sorpresa e compaiono solo quando li sblocchi. Li trovi tutti in Progressi, nella Vetrina.
@@ -22,6 +25,9 @@ Vai in Impostazioni > Lingua e scegli la lingua che preferisci tra quelle dispon
 
 **A cosa serve la Raccolta?**
 Raccoglie i "perché" che hai letto, giorno per giorno, e da lì puoi riaprire la card di ogni giorno. Il segnalibro in alto mostra solo quelli che hai salvato; puoi anche cercare per parola chiave o filtrare per categoria.
+
+**Posso leggere un giorno che ho saltato?**
+Sì, se è negli ultimi 7 giorni. Apri il calendario in Raccolta: i giorni che puoi ancora leggere hanno il bordo tratteggiato. Un giorno recuperato conta per letture, quiz e badge, ma non per la serie.
 
 **Wonder Why raccoglie i miei dati?**
 Niente che ti identifichi. Wonder Why non ha account, e i tuoi progressi (giorni letti, badge, contenuti salvati) restano solo sul tuo iPhone. Se sei d'accordo, l'app invia anche statistiche d'uso anonime, che puoi disattivare quando vuoi nelle Impostazioni.

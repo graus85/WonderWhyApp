@@ -6,7 +6,10 @@
 Cada día la app muestra una sola curiosidad. Es la misma para todos: no cambia si vuelves a abrir la app varias veces el mismo día.
 
 **¿Qué es la racha de días consecutivos?**
-Cuenta cuántos días seguidos has abierto y leído el "porqué". Si te saltas un día, la racha vuelve a cero al día siguiente.
+Cuenta cuántos días seguidos has abierto y leído el "porqué". Si te saltas un día y no te quedan días de descanso, la racha vuelve a empezar.
+
+**¿Qué son los días de descanso?**
+Protegen tu racha cuando te saltas un día. Ganas uno cada 7 días leídos y puedes guardar hasta 2. Se usan solos: la racha sigue, pero el día de descanso no la alarga. Si te saltas más días seguidos de los que tienes, la racha vuelve a empezar. Los encuentras en Progreso, debajo de la racha.
 
 **¿Cómo se desbloquean las insignias?**
 Leyendo los "porqués", manteniendo una racha, explorando categorías distintas y abriendo las fechas especiales a lo largo del año. Algunas insignias son una sorpresa y solo aparecen cuando las desbloqueas. Las encuentras todas en Progreso, en la Vitrina.
@@ -22,6 +25,9 @@ Ve a Ajustes > Idioma y elige el idioma que prefieras entre los disponibles.
 
 **¿Para qué sirve la Colección?**
 Reúne los "porqués" que has leído, día a día, y te permite volver a abrir la tarjeta de cada día. El marcador de arriba muestra solo los que has guardado; también puedes buscar por palabra clave o filtrar por categoría.
+
+**¿Puedo leer un día que me salté?**
+Sí, si está entre los últimos 7 días. Abre el calendario en la Colección: los días que aún puedes leer tienen el borde discontinuo. Un día recuperado cuenta para lecturas, quizzes e insignias, pero no para la racha.
 
 **¿Wonder Why recopila mis datos?**
 Nada que te identifique. Wonder Why no tiene cuenta, y tu progreso (días leídos, insignias, contenidos guardados) queda solo en tu iPhone. Si estás de acuerdo, la app también envía estadísticas de uso anónimas, que puedes desactivar cuando quieras en Ajustes.
